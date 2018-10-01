@@ -24,7 +24,7 @@
 
 "Allow access to \"%@\"\nwith these steps:" = "Abilita l'accesso a \"%@\"\nin questo modo:";
 
-"Open device settings" = "Apri i settings del dispositivo";
+"Open device settings" = "Apri le impostazioni del dispositivo";
 "Tap on Privacy" = "Seleziona Privacy";
 "Tap on \"%@\"" = "Seleziona \"%@\"";
 "Allow your application to use \"%@\"" = "Permetti alla tua applicazione di usare \"%@\"";
